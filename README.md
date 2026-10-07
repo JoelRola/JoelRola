@@ -1,4 +1,14 @@
-## Hi there 👋
+# I'm joel 👋
+
+i'm a machine learning engineer who likes building practical things
+
+most of what i work on is around machine learning, computer vision, llms, data and infrastructure
+
+currently learning more about aws, cloud and data engineering
+
+outside of that I'm into music and the outdoors
+
+[linkedin](https://linkedin.com/in/joel-rola-224535298)
 
 <!--
 **JoelRola/JoelRola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
