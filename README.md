@@ -1,4 +1,4 @@
-# I'm joel 👋
+# I'm Joel 👋
 
 i'm a machine learning engineer who likes building practical things
 
